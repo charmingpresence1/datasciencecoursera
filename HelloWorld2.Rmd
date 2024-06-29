@@ -2,7 +2,7 @@
 title: "HelloWorld1"
 author: "Charmingpresence1"
 date: "`r format(Sys.Date(),'%e de %B, %Y')`"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
